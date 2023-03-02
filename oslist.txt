@@ -1,0 +1,41 @@
+AIX (IBM)
+AmigaOS
+Amiga Unix (aka Amix)
+A/UX
+BeOS
+Cisco IOS
+Concurrent DOS
+CP/M
+DG/UX
+Digital UNIX
+Fabric OS
+FreeBSD
+FreeDOS
+GEOS
+HP-UX
+IBM OS/2 Warp
+IRIX
+JunOS
+MAC OS
+MINIX
+NetBSD
+NeXTSTEP
+Novell NetWare
+OpenBSD
+OpenVMS - VAX/VMS
+OS/400 - IBM i5/OS
+OSF/1
+Plan 9
+QNX
+ReactOS
+RISC OS
+RISC/os (MIPS arch)
+RSX/11
+SCO UNIX
+SUN Solaris
+System V UNIX
+Tru64
+uClinux
+Ultrix
+VxWorks
+Xenix
